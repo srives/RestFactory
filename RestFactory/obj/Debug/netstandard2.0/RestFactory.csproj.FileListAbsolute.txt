@@ -1,0 +1,13 @@
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestFactory.deps.json
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestFactory.dll
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestFactory.pdb
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestSharp.dll
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestSharp.pdb
+C:\repos\RestFactory\RestFactory\bin\Debug\netstandard2.0\RestSharp.xml
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.csprojAssemblyReference.cache
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.AssemblyInfoInputs.cache
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.AssemblyInfo.cs
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.csproj.CoreCompileInputs.cache
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.csproj.CopyComplete
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.dll
+C:\repos\RestFactory\RestFactory\obj\Debug\netstandard2.0\RestFactory.pdb
